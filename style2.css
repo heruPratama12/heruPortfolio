@@ -1,0 +1,11 @@
+.jumbotron {
+	padding: 5rem;
+	background-image: url(img2/3.jpg);
+	background-size: cover;
+	height: 800px;
+	margin-top: -120px;
+
+}
+.jumbotron .display-4 {
+	margin-top: 200px;
+}
